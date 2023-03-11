@@ -2,7 +2,7 @@
 
 All of the experiments are in the `deep-kernel-botorch.py` script.
 
-To run an experiment or change the configurations of an experiment, edit the constants at the beginning of the script.
+To run a different experiment or change the configurations of an experiment, edit the constants at the beginning of the script.
 
 The "random" experiment generates random data and performs multi-task optimization on random data.
 
